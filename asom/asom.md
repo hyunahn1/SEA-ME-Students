@@ -1,6 +1,6 @@
 # Aakash Som (asom)
 ## Profile Pic:
-![alt text](GeneratedImage_3.png)
+![alt text](VestProfilePic.png)
 ## Call me by this name: Aakash
 ## Cohort: July 2025
 ## Email ID: aakashsom13@gmail.com
