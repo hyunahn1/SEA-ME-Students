@@ -17,3 +17,8 @@ Instrument Cluster:https://github.com/mechsoon/Team6-instrument-cluster
 
 
 Head-Unit: https://github.com/Team2-DES-Head-Unit
+
+PDC: https://github.com/Team2-DES-Head-Unit/DES_PDC-System
+
+Hypervisor: https://github.com/Team2-DES-Head-Unit/SCS_Integrated_Digital_Cockpit
+
