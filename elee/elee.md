@@ -1,6 +1,6 @@
 # Eunji Lee (elee)
 ## Profile Pic
-<img src="https://github.com/user-attachments/assets/b39d8d75-fd75-4491-be54-daf552f14f02" width="40%" height="40%"/>
+<img src="https://github.com/user-attachments/assets/b39d8d75-fd75-4491-be54-daf552f14f02" width="50%" height="800%"/>
 
 ## Call me by this name : Eunji or Vanessa
 ## Cohort : July 2024
