@@ -12,5 +12,5 @@
 - I'm mainly interested in embedded systems
 - But open to exploring new fields through SEA:ME.
 ## Project Links:
-[SEA-ME-warm-up](https://github.com/leo9044/SEA-ME-warm-up.git)
-[Leet-Challenge](https://github.com/leo9044/Leet-Challenge.git)
+- [SEA-ME-warm-up](https://github.com/leo9044/SEA-ME-warm-up.git)
+- [Leet-Challenge](https://github.com/leo9044/Leet-Challenge.git)
