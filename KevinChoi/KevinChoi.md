@@ -19,4 +19,5 @@ Kevin Choi (MinHyeok Choi)
 - you can call me Kevin. I can speak English and Korean. and my hobby is bodybuilding. Thankyou!
 
 ## Project Links:
-- Links to your SEA:ME repositories.(later)
+- 
+[SEA:ME-WarmUp](https://github.com/cmh0728/SEA-ME-warm-up)
