@@ -9,7 +9,7 @@
 ## Email ID: 
 ### jwoon0906@naver.com
 ## LinkedIn:
-### jwoon0906@gmail.com
+### www.linkedin.com/in/jwoon0906
 ## Slack ID: 
 ### Jangwoon Park
 ## GitHub ID:
