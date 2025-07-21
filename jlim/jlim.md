@@ -4,7 +4,7 @@
 ## Call me by this name: Leo
 ## Cohort: July 2025
 ## Email ID: leo129044@gmail.com
-## LinkedIn: www.linkedin.com/in/재홍-임-a244532b2
+## LinkedIn: [LinkedIn](www.linkedin.com/in/재홍-임-a244532b2)
 ## Slack ID: JAEHONG LIM(leo)
 ## GitHub ID: leo9044
 ## About me: 
@@ -14,3 +14,4 @@
 ## Project Links:
 - [SEA-ME-warm-up](https://github.com/leo9044/SEA-ME-warm-up.git)
 - [Leet-Challenge](https://github.com/leo9044/Leet-Challenge.git)
+- [Instrument-Cluster](https://github.com/leo9044/DES_Instrument-Cluster.git)
