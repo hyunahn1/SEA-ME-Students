@@ -7,9 +7,10 @@
 ## Slack ID: Jincheol Park
 ## GitHub ID: Clearsu
 ## About me: 
-- Hi, I'm Jin from South Korea and I have studied at 42Seoul. I have experienced web frontend programming through a few projects and here in SEA:ME I want to learn about imbeded systems. Nice to meet you all!
+- Hi, I'm Jin from South Korea and I have studied at 42Seoul. I experienced web frontend through a few projects, and here in SEA:ME I want to learn about embedded systems. Nice to meet you all!
 ## Project Links:
 ### Warm-up
 - https://github.com/Clearsu/SEA-ME-warm-up
 ### DES Modules
 - DES_Instrument-Cluster: https://github.com/DES-Instrument-Cluster/Instrument_cluster
+- DES_Head-Unit: https://github.com/FALCON-RACER/DES_Head-Unit , https://github.com/FALCON-RACER/DES_Automotive-Yocto
