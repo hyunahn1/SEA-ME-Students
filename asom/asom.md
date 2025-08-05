@@ -10,4 +10,6 @@
 ## About me:
 I am an engineering consultant with a Bachelors of Science in Electronics. I have worked in Automotive Projects for 6 years and looking to refresh my engineering skills.
 ## Project Links:
-- Links to your SEA:ME repositories.
+- https://github.com/SkySom13/Warm_Up_SEA_ME
+- https://github.com/SkySom13/LeetCodeChallenges
+- https://github.com/SkySom13/DES_PiRacer-Assembly/tree/main
